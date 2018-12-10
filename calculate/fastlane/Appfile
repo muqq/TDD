@@ -1,0 +1,7 @@
+app_identifier "com.qq.calculate" # The bundle identifier of your app
+apple_id "bbbb55952000+dev@gmail.com" # Your Apple email address
+
+team_id "L33MTVP763" # Developer Portal Team ID
+
+# you can even provide different app identifiers, Apple IDs and team names per lane:
+# More information: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Appfile.md
